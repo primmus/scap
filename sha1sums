@@ -1,6 +1,6 @@
 4b920573e47350d55249a71a5d4a1cc8b94e47d1  nvdcve-2.0-2008.xml
-785096a17c77b47c98f4fab2d9b83b20428e0490  timestamp
-59b083783afa5f197d7264cdb043ed5c6773d8e2  nvdcve-2.0-2019.xml
+9294b5fa9d5924d87b809bfb1150133f05b4ab5a  timestamp
+057e00e36fce853cc5175de82256b3eeb0eb3f00  nvdcve-2.0-2019.xml
 27275041c25646eef3d0fbb0acec5d8353c1b3a5  nvdcve-2.0-2003.xml
 4be352ff695b47dadb41a8a81fd8328e73afbc88  nvdcve-2.0-2012.xml
 dc8f0857b7e116ef2e54391a2825c0782a1a134b  nvdcve-2.0-2002.xml
@@ -21,10 +21,10 @@ a0a3278cb1bf33135a26ec09d8c3f78eb2156bad  oval/5.10/org.mitre.oval/v/family/ios.
 60ab120202723fd96422776f89a730734565ffc3  oval/5.10/org.mitre.oval/v/family/windows.xml
 ed2f41cb764bb3361a3e65cdee1fc1d295e4d66f  oval/5.10/org.mitre.oval/v/family/pixos.xml
 2f5775d8afbf81d963505e0f4ba0f92cdbc68706  oval/5.10/org.mitre.oval/i/oval.xml
-88e93c7bbaa5cbbfa423b4d97ae0e91f08aa8442  nvdcve-2.0-2017.xml
-40e7b52c361f8dbfac6b6063aeba67e4b244e341  nvdcve-2.0-2016.xml
-378f8a8d76a4de8bda4ae1f14d1c511f517454c8  nvdcve-2.0-2018.xml
-2c62e408d6963ffe99ccb32fb2e09211d0286982  official-cpe-dictionary_v2.2.xml
-e1548380895a2634c8ff6f670381a64413729dfb  nvdcve-2.0-2014.xml
+47f714941a62b79c603d476b8fa9a228a6353587  nvdcve-2.0-2017.xml
+9fa72e58367a24dc6a301b651a29ad9e8ea569e6  nvdcve-2.0-2016.xml
+12469222a245a3eb5ca5fffbac56c145118dc35c  nvdcve-2.0-2018.xml
+dfd996a5cbcf315483f9e2b37fb82c71b55ee7b9  official-cpe-dictionary_v2.2.xml
+e4c8ca9b967a7f7a366d9d7fb80c566dcf1c5c80  nvdcve-2.0-2014.xml
 24110ca1fb11b5ae068242ec7920e37293599175  nvdcve-2.0-2011.xml
 88249401850aac80d7a56eea972dd33ab313ffdb  nvdcve-2.0-2010.xml
